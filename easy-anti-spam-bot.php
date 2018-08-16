@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Easy Anti Spam Bots
- * Plugin URI: https://nork.digital
+ * Plugin URI: https://github.com/cjperes/easy-anti-spam-bot
  * Description: Hide email from Spam Bots using a shortcode [email]your@email.com[/email]
  * Author: Caio Peres
  * Author URI: https://github.com/cjperes
