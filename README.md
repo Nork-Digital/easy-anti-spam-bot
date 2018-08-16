@@ -1,0 +1,1 @@
+# easy-anti-spam-bot
