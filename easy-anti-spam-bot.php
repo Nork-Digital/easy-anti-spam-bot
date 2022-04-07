@@ -6,7 +6,7 @@
  * Description: Simple and 100% Plug-n-play - block spam bots, proxy users and more!
  * Author: Caio Peres
  * Author URI: https://github.com/cjperes
- * Version: 1.0.2
+ * Version: 1.0.3
  */
 
 if (!defined('ABSPATH')) {

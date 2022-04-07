@@ -49,3 +49,6 @@ This section describes how to install the plugin and get it working.
 
 = 1.0.2 - 2022/04/06 =
 - Correção mensagem de plugin ativo não era removida ao fechar.
+
+= 1.0.3 - 2022/04/07 =
+- Fix fatal error composer
