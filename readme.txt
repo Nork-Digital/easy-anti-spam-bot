@@ -52,3 +52,6 @@ This section describes how to install the plugin and get it working.
 
 = 1.0.3 - 2022/04/07 =
 - Fix fatal error composer
+
+= 1.0.4 - 2022/04/11 =
+- Fix fatal error required class

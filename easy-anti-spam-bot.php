@@ -6,8 +6,11 @@
  * Description: Simple and 100% Plug-n-play - block spam bots, proxy users and more!
  * Author: Caio Peres
  * Author URI: https://github.com/cjperes
- * Version: 1.0.3
+ * Version: 1.0.4
  */
+
+require  __DIR__ . '/vendor/collizo4sky/persist-admin-notices-dismissal/persist-admin-notices-dismissal.php';
+add_action('admin_init', array( 'PAnD', 'init' ));
 
 if (!defined('ABSPATH')) {
     exit; // tela branca caso o plugin for acessado direto
